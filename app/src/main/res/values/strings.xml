@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AndroidApps</string>
+
+    <!-- Splash -->
+    <string name="welcome_title">Welcome</string>
+    <string name="welcome_subtitle">Tap anywhere to continue</string>
+
+    <!-- Main Menu -->
+    <string name="main_title">Main Menu</string>
+    <string name="btn_1">Button 1</string>
+    <string name="btn_2">Button 2</string>
+    <string name="btn_3">Button 3</string>
+    <string name="btn_4">Button 4</string>
+    <string name="btn_5">Button 5</string>
+
+    <!-- Feature screens -->
+    <string name="feature_1_title">Feature 1</string>
+    <string name="feature_1_description">This is the layout for Feature 1. Add your content here.</string>
+    <string name="feature_2_title">Feature 2</string>
+    <string name="feature_2_description">This is the layout for Feature 2. Add your content here.</string>
+    <string name="feature_3_title">Feature 3</string>
+    <string name="feature_3_description">This is the layout for Feature 3. Add your content here.</string>
+    <string name="feature_4_title">Feature 4</string>
+    <string name="feature_4_description">This is the layout for Feature 4. Add your content here.</string>
+    <string name="feature_5_title">Feature 5</string>
+    <string name="feature_5_description">This is the layout for Feature 5. Add your content here.</string>
+
+    <string name="back_to_menu">Back to Menu</string>
+</resources>
